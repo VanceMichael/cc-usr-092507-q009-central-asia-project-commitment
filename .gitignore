@@ -9,4 +9,8 @@ __pycache__/
 *.db
 *.sqlite
 *.sqlite3
+*.jsonl
+*.lock
+.requests.json
+data/
 .DS_Store
